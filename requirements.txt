@@ -1,0 +1,4 @@
+txt
+gTTS
+openai-whisper
+phonikud
